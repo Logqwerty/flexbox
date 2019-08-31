@@ -36,12 +36,14 @@ body {
   display: flex;
   flex: 1; /* 1 1 0 */
 }
+
 .aside {
   display: flex;
   flex: none;
   width: 400px;
   background-color: #bfbab078;
 }
+
 .main {
   display: flex;
   flex: 1;
